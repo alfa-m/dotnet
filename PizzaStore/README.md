@@ -3,7 +3,7 @@
 ## Description
 
 A minimal API example using ASP.NET Core and .NET.
-The original course in Microsoft Learn can be seen [here](https://learn.microsoft.com/pt-br/training/modules/build-web-api-minimal-api/).
+The original course Microsoft Learn can be seen [here](https://learn.microsoft.com/pt-br/training/modules/build-web-api-minimal-api/).
 
 ## Requirements
 
@@ -32,7 +32,7 @@ This tells the terminal to create a new ASP.NET Core template (`new web`) and to
 cd PizzaStore
 ```
 
-You'll see that the ASP.NET Core template already includes four lines of code.
+You'll see that the ASP.NET Core template already includes the following four lines of code.
 
 ```
 var builder = WebApplication.CreateBuilder(args);
@@ -46,7 +46,7 @@ app.Run();
 
 Breaking down the code:
 
-`var builder = WebApplication.CreateBuilder(args);` -> Inform that the builder will be a WebApplicationBuilder
+`var builder = WebApplication.CreateBuilder(args);` -> Informs that the builder will be a WebApplicationBuilder
 
 `var app = builder.Build();` -> Builds the Web Application
 
@@ -64,6 +64,6 @@ When the building finishes, the terminal will show the localhost ports for the a
 
 5. Access the port
 
-In the browser, go to the `http://localhost:{PORT}` indicated, where you'll see the "Hello World!" message.
+In the browser, go to the indicated `http://localhost:{PORT}`, where you'll see the message "Hello World!".
 
 ### Creating the data
