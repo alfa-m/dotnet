@@ -1,3 +1,9 @@
 # Minimal API of Pizza Store
 
-This example requires the .NET SDK installed in your PC and the C# extension in your VS Code
+This example requires:
+- [.NET SDK](https://dotnet.microsoft.com/en-us/download)
+- [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-pack) in your
+[Visual Studio Code](https://code.visualstudio.com/Download)
+
+
+
