@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspdotnet-core-controllers\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspnet-core-controllers\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspdotnet-core-controllers\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspnet-core-controllers\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\arufa\\.nuget\\packages\\",
-      "outputPath": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspdotnet-core-controllers\\ContosoPizza\\obj\\",
+      "outputPath": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspnet-core-controllers\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arufa\\AppData\\Roaming\\NuGet\\NuGet.Config"

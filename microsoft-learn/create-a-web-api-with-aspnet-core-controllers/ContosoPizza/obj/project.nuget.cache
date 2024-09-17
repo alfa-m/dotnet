@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ON0W/WPu3c=",
+  "dgSpecHash": "5eMU/m07Z/E=",
   "success": true,
-  "projectFilePath": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspdotnet-core-controllers\\ContosoPizza\\ContosoPizza.csproj",
+  "projectFilePath": "D:\\Polar Files\\Documents\\Computação\\Projetos no Github\\dotnet\\microsoft-learn\\create-a-web-api-with-aspnet-core-controllers\\ContosoPizza\\ContosoPizza.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arufa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\arufa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
