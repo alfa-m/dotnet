@@ -16,6 +16,8 @@ public class PizzaService
     public IEnumerable<Pizza> GetAll()
     {
         return _context.Pizzas
+            .Include(p => p.Toppings)
+            .Include(p => p.Sauce)
             .AsNoTracking()
             .ToList();
     }
